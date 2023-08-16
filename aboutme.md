@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why would you want to know more about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dinorah, I like:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Sanrio
+- Cats
 
-What else do you need?
+What else do you want to know?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Watch this movie about me (https://www.youtube.com/watch?v=Vpc7Y-Oxvko)
