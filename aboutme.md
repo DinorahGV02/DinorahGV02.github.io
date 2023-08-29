@@ -11,6 +11,4 @@ My name is Dinorah, I like:
 
 What else do you want to know?
 
-### My story
 
-Watch this movie [about me](https://www.youtube.com/watch?v=Vpc7Y-Oxvko)
